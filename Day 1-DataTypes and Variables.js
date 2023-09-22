@@ -54,3 +54,4 @@ const item = {
     "system":false
 } 
 console.log(item["jindhad"])
+//items initialized as undefined and items not present in the object are said undefined in log
