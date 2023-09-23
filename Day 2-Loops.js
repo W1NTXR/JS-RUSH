@@ -25,5 +25,5 @@ while(i < 4) {
 i = 0
 do {
     console.log(i)
-    i++;
+    i++
 }while(i<3)
