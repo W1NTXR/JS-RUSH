@@ -16,5 +16,5 @@ console.log(a2)
 let a3 = num2.reduce((h1,h2) => {
     return h1 + h2;
 })
-
+//takes 0th and 1th index and performs the desired operations and keeps on moving forward
 console.log(a3)
